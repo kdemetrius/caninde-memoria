@@ -6,9 +6,15 @@ nav_order: 8
 
 # Fontes e referências
 
-Esta seção reunirá as fontes consultadas para a construção do acervo **Canindé Memória**.
+Esta seção reunirá as fontes consultadas para a construção do acervo **Kanindé Cultural**.
 
 O objetivo é registrar livros, blogs, documentos, jornais, fotografias, relatos orais, arquivos familiares, sites e demais materiais utilizados na pesquisa sobre a história, cultura e memória de Canindé, Ceará.
+
+## Curadoria cultural
+
+A curadoria cultural, histórica e memorialística do **Kanindé Cultural** é conduzida por **Pedro Paulo Paulino**, responsável pela indicação, seleção e contextualização das fontes culturais, históricas e documentais relacionadas a Canindé.
+
+Sua participação é parte central do projeto, especialmente na identificação de registros, memórias, personagens, acontecimentos e referências ligadas à história local.
 
 ## Tipos de fontes
 
@@ -40,6 +46,7 @@ Sempre que possível, cada fonte deverá informar:
 
 ## Fontes iniciais previstas
 
+- Acervo e pesquisa de Pedro Paulo Paulino
 - Blog de Pedro Paulo Paulino
 - Acervo familiar Marreiro
 - Fotografias antigas de Canindé
