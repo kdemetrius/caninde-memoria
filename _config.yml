@@ -1,0 +1,13 @@
+title: Canindé Memória
+description: Acervo digital sobre a história, cultura e memória de Canindé, Ceará.
+theme: just-the-docs
+
+url: "https://kdemetrius.github.io"
+baseurl: "/caninde-memoria"
+
+aux_links:
+  "Repositório no GitHub":
+    - "https://github.com/kdemetrius/caninde-memoria"
+
+color_scheme: light
+search_enabled: true
