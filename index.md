@@ -4,25 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-# Canindé Memória
+# Kanindé Cultural
 
-Bem-vindo ao **Canindé Memória**, um acervo digital dedicado à preservação da história, cultura, religiosidade, personagens, famílias, lugares, imagens e relatos ligados ao município de Canindé, Ceará.
+Bem-vindo ao **Kanindé Cultural**, um museu virtual dedicado à preservação da memória, cultura, religiosidade, personagens, famílias, lugares, imagens e relatos ligados ao município de Canindé, Ceará.
+
+O nome **Kanindé** retoma uma grafia de raiz indígena associada à origem do nome Canindé, evocando a memória dos povos originários, da terra, da cultura e da formação histórica do município.
 
 Este projeto nasce com o objetivo de reunir, organizar e tornar acessíveis registros que ajudem as futuras gerações a conhecerem melhor a formação social, cultural e afetiva da nossa terra.
-
-## Primeiras salas do acervo
-
-- História de Canindé
-- Linha do tempo
-- Personagens
-- Lugares
-- Cultura popular
-- Romarias e religiosidade
-- Galeria de fotos
-- Documentos e fontes
-
-## Projeto em construção
-
-Este museu virtual será construído aos poucos, com pesquisa, cuidado e respeito às fontes.
-
-Toda contribuição deverá, sempre que possível, informar autoria, data aproximada, origem da informação e contexto histórico.
