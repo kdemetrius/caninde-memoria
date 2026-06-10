@@ -1,29 +1,79 @@
-// Personalização visual do Kanindé Cultural
+// ======================================================
+// Kanindé Cultural
+// Paleta: Kanindé Ancestral + Sertão Memória
+// ======================================================
 
+// Cores principais
 $link-color: #8a4b18;
 $btn-primary-color: #8a4b18;
+$body-background-color: #fffaf3;
+$sidebar-color: #f5efe6;
+$nav-child-link-color: #4b3728;
+$body-text-color: #2f241c;
+$body-heading-color: #2f241c;
+$search-background-color: #fffaf3;
+$table-background-color: #fffaf3;
 
+// Título do site
 .site-title {
-  font-weight: 600;
-  letter-spacing: 0.02em;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #2f241c;
 }
 
+// Cabeçalho lateral
 .site-header {
-  border-bottom: 1px solid #e6dccf;
+  border-bottom: 1px solid #e2d3c0;
 }
 
+// Barra lateral
 .side-bar {
-  background-color: #f7f1e8;
+  background-color: #f5efe6;
 }
 
+// Links do menu
+.nav-list .nav-list-item .nav-list-link {
+  color: #7a3f14;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover {
+  background-color: #eadcc8;
+  color: #4b260d;
+}
+
+// Item ativo do menu
+.nav-list .nav-list-item .nav-list-link.active {
+  background-color: #eadcc8;
+  color: #4b260d;
+  font-weight: 700;
+}
+
+// Área principal
+.main {
+  background-color: #fffaf3;
+}
+
+// Títulos
 .main-content h1 {
-  color: #2f2a24;
+  color: #2f241c;
+  font-weight: 500;
 }
 
 .main-content h2 {
   color: #4b3728;
+  font-weight: 700;
 }
 
+.main-content h3 {
+  color: #1f4e5f;
+}
+
+// Texto
+.main-content {
+  color: #2f241c;
+}
+
+// Links gerais
 a {
   color: #8a4b18;
 }
@@ -32,10 +82,21 @@ a:hover {
   color: #5f3210;
 }
 
+// Busca
 .search-input {
   background-color: #fffaf3;
 }
 
+.search-input:focus {
+  box-shadow: 0 0 0 2px #d8b98f;
+}
+
+// Linha divisória
+hr {
+  border-top: 1px solid #e2d3c0;
+}
+
+// Rodapé
 .site-footer {
   font-size: 0.75rem;
   color: #7a6a5c;
