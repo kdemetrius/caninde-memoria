@@ -1,50 +1,76 @@
 // ======================================================
 // Kanindé Cultural
 // Paleta: Kanindé Ancestral + Sertão Memória
+// Versão visual 2
 // ======================================================
 
-// Cores principais
+// Cores base do Just the Docs
 $link-color: #8a4b18;
 $btn-primary-color: #8a4b18;
 $body-background-color: #fffaf3;
-$sidebar-color: #f5efe6;
+$sidebar-color: #f1e5d4;
 $nav-child-link-color: #4b3728;
 $body-text-color: #2f241c;
 $body-heading-color: #2f241c;
 $search-background-color: #fffaf3;
 $table-background-color: #fffaf3;
 
-// Título do site
-.site-title {
-  font-weight: 700;
-  letter-spacing: 0.03em;
-  color: #2f241c;
+// Fundo geral da página
+html,
+body {
+  background-color: #f1e5d4;
+}
+
+// Barra lateral inteira
+.side-bar {
+  background: linear-gradient(180deg, #efe1cc 0%, #f7efe4 100%);
+  border-right: 1px solid #dec7aa;
 }
 
 // Cabeçalho lateral
 .site-header {
-  border-bottom: 1px solid #e2d3c0;
+  background-color: #efe1cc;
+  border-bottom: 1px solid #dec7aa;
 }
 
-// Barra lateral
-.side-bar {
-  background-color: #f5efe6;
+// Título do site
+.site-title {
+  color: #2f241c;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  font-size: 1.35rem !important;
+  line-height: 1.2;
+  white-space: normal;
+}
+
+.site-title:hover {
+  background-image: none;
+  color: #8a4b18;
+}
+
+// Área do menu
+.site-nav {
+  padding-top: 1rem;
 }
 
 // Links do menu
 .nav-list .nav-list-item .nav-list-link {
-  color: #7a3f14;
+  color: #743b12;
+  border-radius: 0 24px 24px 0;
+  margin-right: 0.75rem;
+  padding-top: 0.45rem;
+  padding-bottom: 0.45rem;
 }
 
 .nav-list .nav-list-item .nav-list-link:hover {
-  background-color: #eadcc8;
-  color: #4b260d;
+  background-color: #e4cfb2;
+  color: #3f230f;
 }
 
 // Item ativo do menu
 .nav-list .nav-list-item .nav-list-link.active {
-  background-color: #eadcc8;
-  color: #4b260d;
+  background-color: #dcc19d;
+  color: #2f241c;
   font-weight: 700;
 }
 
@@ -53,29 +79,49 @@ $table-background-color: #fffaf3;
   background-color: #fffaf3;
 }
 
-// Títulos
+// Cabeçalho superior da área principal
+.main-header {
+  background-color: #fffaf3;
+  border-bottom: 1px solid #e2d3c0;
+}
+
+// Conteúdo principal
+.main-content {
+  color: #2f241c;
+  line-height: 1.75;
+  max-width: 820px;
+}
+
+// Título principal
 .main-content h1 {
   color: #2f241c;
   font-weight: 500;
+  letter-spacing: -0.02em;
+  margin-bottom: 1.2rem;
 }
 
+// Subtítulos
 .main-content h2 {
   color: #4b3728;
-  font-weight: 700;
+  font-weight: 800;
+  margin-top: 2.4rem;
 }
 
 .main-content h3 {
   color: #1f4e5f;
+  font-weight: 700;
 }
 
-// Texto
-.main-content {
-  color: #2f241c;
+// Parágrafos
+.main-content p {
+  font-size: 1rem;
 }
 
 // Links gerais
 a {
   color: #8a4b18;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 
 a:hover {
@@ -83,8 +129,13 @@ a:hover {
 }
 
 // Busca
+.search {
+  background-color: #fffaf3;
+}
+
 .search-input {
   background-color: #fffaf3;
+  color: #2f241c;
 }
 
 .search-input:focus {
@@ -93,11 +144,11 @@ a:hover {
 
 // Linha divisória
 hr {
-  border-top: 1px solid #e2d3c0;
+  border-top: 1px solid #dec7aa;
 }
 
 // Rodapé
 .site-footer {
-  font-size: 0.75rem;
-  color: #7a6a5c;
+  font-size: 0.72rem;
+  color: #8a7a68;
 }
