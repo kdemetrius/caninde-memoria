@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+{% include banner.html %}
+
 # Kanindé Cultural
 
 Bem-vindo ao **Kanindé Cultural**, um museu virtual dedicado à preservação da memória, cultura, religiosidade, personagens, famílias, lugares, imagens e relatos ligados ao município de Canindé, Ceará.
