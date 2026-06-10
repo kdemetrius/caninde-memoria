@@ -1,31 +1,32 @@
 ---
-
 title: Sobre o projeto
 layout: default
 nav_order: 2
-------------
+---
 
 # Sobre o projeto
 
-O **Canindé Memória** é um acervo digital dedicado à preservação da história, cultura, religiosidade, personagens, famílias, lugares, imagens, documentos e relatos ligados ao município de Canindé, Ceará.
+O **Kanindé Cultural** é um museu virtual dedicado à preservação da história, cultura, religiosidade, personagens, famílias, lugares, imagens, documentos e relatos ligados ao município de Canindé, Ceará.
+
+O nome **Kanindé** retoma uma grafia de raiz indígena associada à origem do nome Canindé, evocando a memória dos povos originários, da terra, da cultura e da formação histórica do município.
 
 A proposta é reunir, organizar e tornar acessíveis registros que ajudem moradores, pesquisadores, estudantes, visitantes e futuras gerações a conhecerem melhor a formação social, cultural e afetiva da cidade.
 
 ## Objetivo
 
-O objetivo deste projeto é funcionar como um museu virtual em construção permanente, reunindo conteúdos como:
+O objetivo deste projeto é funcionar como um acervo digital em construção permanente, reunindo conteúdos como:
 
-* fotografias antigas;
-* relatos familiares;
-* biografias;
-* documentos históricos;
-* registros sobre ruas, bairros e comunidades;
-* memórias sobre romarias, festas e tradições;
-* referências bibliográficas e fontes digitais.
+- fotografias antigas;
+- relatos familiares;
+- biografias;
+- documentos históricos;
+- registros sobre ruas, bairros e comunidades;
+- memórias sobre romarias, festas e tradições;
+- referências bibliográficas e fontes digitais.
 
 ## Coordenação do projeto
 
-O **Canindé Memória** é construído a partir de duas frentes complementares.
+O **Kanindé Cultural** é construído a partir de duas frentes complementares.
 
 A parte técnica, estrutural e digital do site é conduzida por **Kennedy Marreiro**, responsável pela organização da plataforma, publicação, manutenção e preservação digital do acervo.
 
@@ -37,12 +38,12 @@ O projeto nasce, portanto, como uma construção conjunta, unindo tecnologia e m
 
 Sempre que possível, cada conteúdo publicado deverá indicar:
 
-* autoria;
-* fonte;
-* data ou período aproximado;
-* local relacionado;
-* contexto histórico;
-* observações sobre dúvidas ou informações ainda não confirmadas.
+- autoria;
+- fonte;
+- data ou período aproximado;
+- local relacionado;
+- contexto histórico;
+- observações sobre dúvidas ou informações ainda não confirmadas.
 
 ## Projeto independente
 
